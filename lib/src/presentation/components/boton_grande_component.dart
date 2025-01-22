@@ -10,7 +10,7 @@ class BotonGrandeComponent extends StatelessWidget {
     return Container(
       height: 400,
       width: 100,
-      color: Colors.pink,
+      color: Colors.blue,
     );
   }
 }

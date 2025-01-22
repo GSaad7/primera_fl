@@ -8,7 +8,7 @@ class SegundaScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text('Pantalla amarilla'),),
       body: Container(
-        color: Colors.amber,
+        color: Colors.purple,
       ),
     );
   }

@@ -17,7 +17,7 @@ class BotonesComponent extends StatelessWidget {
             width: 200,
             
             decoration: BoxDecoration(
-              color: Colors.orange,
+              color: Colors.blueGrey,
               borderRadius: BorderRadius.circular(10.0)  ,
             
             ),
@@ -26,7 +26,7 @@ class BotonesComponent extends StatelessWidget {
               width: 100,
               child: CircleAvatar(
                 radius: 100,
-                child: Icon(Icons.radio_button_checked, size: 75, color: Colors.red,),
+                child: Icon(Icons.radio_button_checked, size: 75, color: Colors.brown,),
               ),
             )
         
